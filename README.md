@@ -4,7 +4,9 @@ An unity game of moving asteroids. Done using C# language. It is done as a part 
 
 In this game the gamer will control a spacecraft. There will be some randomly moving asteroids. To save the spacecraft, the gamer can move the spacecraft and direct it to any direction. Then he/she can fire to an asteroid. If an asteroid is hit, it will split into smaller asteroids. 
 
-If the spacecraft or the asteroids or the bullets move out of the screen, then they wrap in from the opposite side. If the spacecraft collides with an asteroid it makes a special sound and gets destroyed. When a bullet is fired, a special sound is originated and when it hits a steroid, a separate sound effect can be observed. Every bullet has a lifetime, after which it is destroyed. 
+If the spacecraft or the asteroids or the bullets move out of the screen, then they wrap in from the opposite side. If the spacecraft collides with an asteroid it makes a special sound and gets destroyed. When a bullet is fired, a special sound is originated and when it hits a steroid, a separate sound effect can be observed. 
+
+Every bullet has a lifetime, after which it is destroyed. There is also a counter which counts the spacecraft's lifetime in seconds.
 
 ## Controls
 
